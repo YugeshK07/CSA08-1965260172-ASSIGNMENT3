@@ -62,3 +62,4 @@ if __name__ == "__main__":
     test_edge_cases()
     for n in (10000, 100000, 1000000):
         benchmark(n)
+          # Task 04 - Execution verified
