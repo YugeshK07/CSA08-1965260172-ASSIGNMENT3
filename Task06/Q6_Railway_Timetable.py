@@ -69,3 +69,4 @@ if __name__ == "__main__":
     index = build_index(timetable)
     print("Indexed Katpadi:", indexed_query(index, "Katpadi", "Mon"))
     experiment()
+    # Task 06 - Execution verified
