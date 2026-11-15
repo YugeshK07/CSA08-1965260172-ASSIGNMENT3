@@ -55,3 +55,4 @@ if __name__ == "__main__":
     except ValueError as error:
         print("Empty list test:", error)
     experiment()
+# Task 01 - Execution verified
