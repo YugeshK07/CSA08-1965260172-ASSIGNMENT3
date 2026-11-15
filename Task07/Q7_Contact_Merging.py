@@ -61,3 +61,4 @@ if __name__ == "__main__":
         print(f"n={n}: dictionary grouping={dictionary_time:.6f}s")
     print("Pairwise comparison counts: n=1000 -> 499500; n=100000 -> 4999950000")
     print("Pairwise 100000 timing is not run because it would require about 5 billion comparisons.")
+    # Task 07 - Execution verified
