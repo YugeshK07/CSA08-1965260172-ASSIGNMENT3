@@ -69,3 +69,4 @@ if __name__ == "__main__":
     print("Empty input:", frequencies([], STOP))
     print("Case and punctuation:", frequencies(["SEEDS, seeds!"], STOP))
     benchmark()
+    # Task 03 - Execution verified
